@@ -73,7 +73,7 @@ me.say_hi()
 | 🥇 Achievement | 📌 Details |
 |---|---|
 | 🐍 Python Proficiency | Completed Python programming & data structures |
-| ☕ Java Foundations | Core Java & OOP concepts mastered |
+| ☕ Javascript Foundations | Core Javascript & OOP concepts mastered |
 | ⚡ C++ Problem Solving | Competitive programming with C++ |
 | 🌐 Web Development | HTML & CSS — responsive web design |
 | 🎬 Video Editing | Adobe After Effects — motion graphics & VFX |
