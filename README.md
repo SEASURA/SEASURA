@@ -3,8 +3,7 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ankit%20Timilsena&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Creator&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Profile Photo -->
-<img src="C:\Users\Ankit\Downloads\WhatsApp Image 2026-04-23 at 6.54.54 PM.jpeg" alt="Ankit Timilsena" />
+                                                        SEASURA
 
 <br/>
 
