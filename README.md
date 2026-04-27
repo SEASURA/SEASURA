@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ankit%20Timilsena&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Creator&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Profile Photo -->
-<img src="https://raw.githubusercontent.com/ankittimilsena/ankittimilsena/main/profile.jpeg" width="160" style="border-radius:50%; border: 4px solid #7c3aed; box-shadow: 0 0 25px #7c3aed;" alt="Ankit Timilsena" />
+<img src="https://raw.githubusercontent.com/SEASURA/SEASURA-/main/profile.jpeg" width="160" style="border-radius:50%; border: 4px solid #7c3aed;" alt="Ankit Timilsena" />
 
 <br/>
 
@@ -14,8 +14,8 @@
 <br/>
 
 <!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=ankittimilsena&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ankittimilsena?style=for-the-badge&color=7c3aed&logo=github)](https://github.com/ankittimilsena)
+![Visitor Count](https://komarev.com/ghpvc/?username=SEASURA&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/SEASURA?style=for-the-badge&color=7c3aed&logo=github)](https://github.com/SEASURA)
 
 </div>
 
@@ -28,7 +28,7 @@ class Ankit:
     name       = "Ankit Timilsena"
     university = "Jain (Deemed-to-be) University"
     degree     = "B.Tech – Computer Science Engineering"
-    location   = "Bengaluru,karnataka 🇮🇳"
+    location   = "India 🇮🇳"
     passion    = "Passionate Learner & Builder"
     hobbies    = ["Coding", "Video Editing", "Problem Solving", "Exploring Tech"]
 
@@ -86,10 +86,10 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankittimilsena&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankittimilsena&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEASURA&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEASURA&theme=midnight-purple&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittimilsena&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEASURA&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -98,10 +98,12 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankittimilsena/ankittimilsena/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEASURA/SEASURA-/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEASURA/SEASURA-/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/SEASURA/SEASURA-/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-> ⚙️ **Setup:** Add a GitHub Action to generate the snake animation automatically! See [Platane/snk](https://github.com/Platane/snk).
 
 ---
 
@@ -109,19 +111,14 @@ me.say_hi()
 
 > Play right here in the README! Click to open 👇
 
-[![Play Rock Paper Scissors](https://img.shields.io/badge/🎮_Play_Rock_Paper_Scissors-7c3aed?style=for-the-badge)](https://rps-readme-game.vercel.app/?username=ankittimilsena)
-
-**Or try this quick challenge:**
-
-<!-- RPS Game via GitHub Issues - players comment with their move -->
-> 🗨️ **Comment on my profile repo** with `/rps rock`, `/rps paper`, or `/rps scissors` to challenge me!
+[![Play Rock Paper Scissors](https://img.shields.io/badge/🎮_Play_Rock_Paper_Scissors-7c3aed?style=for-the-badge)](https://rps-readme-game.vercel.app/?username=SEASURA)
 
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankittimilsena&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEASURA&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -132,8 +129,8 @@ me.say_hi()
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sea_sura.exe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-timilsena-a804b9298/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ankittimilsena/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittimilsena)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SEASURA/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEASURA)
 
 </div>
 
@@ -161,7 +158,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 **✨ "Code is not just syntax — it's a superpower." ✨**
