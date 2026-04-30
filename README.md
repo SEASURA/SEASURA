@@ -5,8 +5,6 @@
 
 <center><h1>SEASURA</h1></center>
 
-
-
 <br/>
 
 <!-- Typing Animation -->
@@ -29,7 +27,7 @@ class Ankit:
     name       = "Ankit Timilsena"
     university = "Jain (Deemed-to-be) University"
     degree     = "B.Tech – Computer Science Engineering"
-    location   = "Bengaluru ,karnataka 🇮🇳"
+    location   = "Bengaluru, Karnataka 🇮🇳"
     passion    = "Passionate Learner & Builder"
     hobbies    = ["Coding", "Video Editing", "Problem Solving", "Exploring Tech"]
 
@@ -132,6 +130,13 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-timilsena-a804b9298/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SEASURA/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEASURA)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittimilsena11@gmail.com)
+
+<br/><br/>
+
+| 📧 Gmail | 📞 Phone |
+|:---:|:---:|
+| [ankittimilsena11@gmail.com](mailto:ankittimilsena11@gmail.com) | [+91 7338196336](tel:+917338196336) |
 
 </div>
 
